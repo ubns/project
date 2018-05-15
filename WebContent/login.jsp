@@ -10,7 +10,7 @@
 <%@include file="/WEB-INF/css/style.css" %>
 </style>
 <body>
-
+ssss
 <div class="login">
 	<small>${message}</small>
 	<form action="/training/Auth" method="post">
