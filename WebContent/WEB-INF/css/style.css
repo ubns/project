@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.login small {
+	color: red;
+}
+
+textarea {
+	margin: 2em 0;
+}
